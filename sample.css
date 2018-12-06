@@ -1,0 +1,52 @@
+
+body {
+    background-image: url("images.jpeg");
+    background-repeat: repeat-x;
+}
+
+h1 {
+    font-family: verdana;
+    text-align: center;  
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    margin-left: 30px;
+}
+h3 {
+    color: navy;
+    margin-left: 20px;
+}
+table{
+        width: 800px;
+        padding: 10px;
+        border: 5px black;
+        margin: auto;
+}
+a:link {
+            color: red;
+ }
+        
+        
+a:visited {
+            color: green;
+ }
+        
+      
+a:hover {
+            color: hotpink;
+ }
+        
+a:active {
+            color: blue;
+ }   
+ table{
+            padding: 50px;
+            margin: auto;
+ }
+
+.DropShad{
+
+    box-shadow:5px 5px 5p greenyellow;
+}
